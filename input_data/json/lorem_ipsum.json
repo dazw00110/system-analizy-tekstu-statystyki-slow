@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "text": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "id": 3,
+    "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+  }
+]

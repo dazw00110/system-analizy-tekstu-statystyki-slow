@@ -88,4 +88,6 @@ Thumbs.db
 *.docx
 *.txt
 
+#Przykaładowe dane wejściowe
+!lorem_ipsum.*
 
