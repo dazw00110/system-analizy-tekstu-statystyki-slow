@@ -1,0 +1,1 @@
+System Analizy Tekstu i Statystyk Słów

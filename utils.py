@@ -1,0 +1,1 @@
+# Funkcje pomocnicze (wczytywanie danych, liczenie)
