@@ -181,11 +181,13 @@ Analiza przebiega tak samo jak dla jednego pliku, musimy tylko dodać drugi plik
 1. Przygotowaliśmy przykładowe pliki tekstowe `input_data/txt/test.txt` i `input_data/txt/test2.txt` z danymi do analizy
 
 ![img_9.png](documentation_data/img_9.png)
+
 2. Uruchamiamy skrypt `main.py`:
 ```bash
 python main.py
 ```
 ![img_10.png](documentation_data/img_10.png)
+
 3. Sprawdzamy pliki po analizie najbardziej bedzie interesował nas folder plots/comparison, ponieważ tam będą wykresy porównawcze. Otrzymane wykresy:
 ![comparison_all_metrics.png](exports/plots/comparison/comparison_all_metrics.png)
 ![comparison_avg_sentence_len.png](exports/plots/comparison/comparison_avg_sentence_len.png)
